@@ -15,8 +15,11 @@ Write a program that has the following console features:
 # Example
 
 Welcome to the Tip Calculator
+
 What was the total bill? $124.56
+
 What percentage tip would you like to give? 12
+
 How many people to split the bill? 7
 
 Each person should pay: $19.93.
