@@ -1,0 +1,22 @@
+{
+  "name": "100daysofcode-day2-tipcalculator",
+  "version": "1.0.0",
+  "description": "Write a program that has the following console features:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day2-TipCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day2-TipCalculator/issues"
+  },
+  "homepage": "https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day2-TipCalculator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
